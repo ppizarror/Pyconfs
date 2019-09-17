@@ -2,7 +2,7 @@
     "PROJECT": {
         "NAME": "Pyconfs",
         "ICON": {
-            "IMAGE": "http://ppizarror.com/resources/other/python.png",
+            "IMAGE": "https://res.ppizarror.com/other/python.png",
             "ALT": "Pyconfs",
             "WIDTH": 200,
             "HEIGHT": 200
@@ -12,7 +12,7 @@
     },
     "AUTHOR": {
         "NAME": "Pablo Pizarro R.",
-        "URL": "http://ppizarror.com",
+        "URL": "https://ppizarror.com",
         "ALT": "ppizarror",
         "DATE": "2017",
         "SECTION": {
@@ -23,17 +23,17 @@
     "DESCRIPTION": "A library to create, read and edit configuration files",
     "BADGES": {
         "0": {
-            "IMAGE": "http://ppizarror.com/badges/author.svg",
-            "HREF": "http://ppizarror.com",
+            "IMAGE": "https://res.ppizarror.com/badges/author.svg",
+            "HREF": "https://ppizarror.com",
             "ALT": "@ppizarror"
         },
         "1": {
-            "IMAGE": "http://ppizarror.com/badges/licensegpl3.svg",
+            "IMAGE": "https://res.ppizarror.com/badges/licensegpl3.svg",
             "HREF": "https://www.gnu.org/licenses/",
             "ALT": "License GPL v3"
         },
 		"2": {
-		  "IMAGE": "http://ppizarror.com/badges/python27.svg",
+		  "IMAGE": "https://res.ppizarror.com/badges/python27.svg",
 		  "HREF": "https://www.python.org/downloads/",
 		  "ALT": "Python 2.7"
 		}
